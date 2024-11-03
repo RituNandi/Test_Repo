@@ -47,16 +47,16 @@ Following are some key insights from the analysis performed for the year 2023 fo
 
 * Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?<br>
 
-**1. Grove St PATH**
-**2. Hoboken Terminal - River St & Hudson Pl**
-**3. South Waterfront Walkway - Sinatra Dr & 1 St**
-**4. Hoboken Terminal - Hudson St & Hudson Pl**
-**5. City Hall - Washington St & 1 St**
-**6. Newport PATH**
-**7. Hamilton Park**
-**8. Newport Pkwy**
-**9. Bergen Ave & Sip Ave**
-**10. 11 St & Washington St** 
+**1. Grove St PATH**<br>
+**2. Hoboken Terminal - River St & Hudson Pl**<br>
+**3. South Waterfront Walkway - Sinatra Dr & 1 St**<br>
+**4. Hoboken Terminal - Hudson St & Hudson Pl**<br>
+**5. City Hall - Washington St & 1 St**<br>
+**6. Newport PATH**<br>
+**7. Hamilton Park**<br>
+**8. Newport Pkwy**<br>
+**9. Bergen Ave & Sip Ave**<br>
+**10. 11 St & Washington St** <br>
 
 * How does the average trip duration change by the type of user? <br>
 **Casual - 16.47 mins**
@@ -128,7 +128,7 @@ I have also created two bar charts to show the top 10 Stations used to Start and
 
 I have then created a dashbaord displaying the two maps showing the Start and End Stations with filters added to analyze the most popular stations for each month.
 
-Following are key findings from this dashboard:
+**Following are key findings from this dashboard:**
 
 The top 10 stations for starting and ending and trip are almost (9 out of top 10) the same locations in Jersey City. The top 3 stations are: 
 1. Grove St PATH ( 16.88% of total ride for starting a trip)
