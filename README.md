@@ -47,16 +47,16 @@ Following are some key insights from the analysis performed for the year 2023 fo
 
 * Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?<br>
 
-**1. Grove St PATH**<br>
-**2. Hoboken Terminal - River St & Hudson Pl**<br>
-**3. South Waterfront Walkway - Sinatra Dr & 1 St**<br>
-**4. Hoboken Terminal - Hudson St & Hudson Pl**<br>
-**5. City Hall - Washington St & 1 St**<br>
-**6. Newport PATH**<br>
-**7. Hamilton Park**<br>
-**8. Newport Pkwy**<br>
-**9. Bergen Ave & Sip Ave**<br>
-**10. 11 St & Washington St** <br>
+        **1. Grove St PATH**<br>
+        **2. Hoboken Terminal - River St & Hudson Pl**<br>
+        **3. South Waterfront Walkway - Sinatra Dr & 1 St**<br>
+        **4. Hoboken Terminal - Hudson St & Hudson Pl**<br>
+        **5. City Hall - Washington St & 1 St**<br>
+        **6. Newport PATH**<br>
+        **7. Hamilton Park**<br>
+        **8. Newport Pkwy**<br>
+        **9. Bergen Ave & Sip Ave**<br>
+        **10. 11 St & Washington St** <br>
 
 * How does the average trip duration change by the type of user? <br>
 **Casual - 16.47 mins**
