@@ -5,7 +5,7 @@
 
 In this assignment, I have created visualizations, dashboards and a story using Tableau for the [New York Citi Bike Program](https://en.wikipedia.org/wiki/Citi_Bike). CitiBike is the largest bike-sharing program in the United States.
 
-Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on their webpage.
+Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on their [webpage](https://www.citibikenyc.com/system-data).
 
 This Tableau dashboard is created with the purpose to establish a sophisticated reporting process. The set of visualizations are aimed to provide data reports to the city officials.
 
@@ -36,34 +36,34 @@ Following are some key insights from the analysis performed for the year 2023 fo
 
 ## Questions to Answer:
 
-* How many trips have been recorded in total during the chosen period?
-985,519 
+* How many trips have been recorded in total during the chosen period?<br>
+**985,519** 
 
-* What are the peak hours when bikes are used during the summer months?
-5-6 pm.
+* What are the peak hours when bikes are used during the summer months?<br>
+**5-6 pm.**
 
-* What are the peak hours when bikes are used during the winter months?
-5-6 pm.
+* What are the peak hours when bikes are used during the winter months?<br>
+**5-6 pm.**
 
-* Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
+* Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?<br>
 
-- Grove St PATH 
-- Hoboken Terminal - River St & Hudson Pl 
-- South Waterfront Walkway - Sinatra Dr & 1 St
-- Hoboken Terminal - Hudson St & Hudson Pl
-- City Hall - Washington St & 1 St
-- Newport PATH
-- Hamilton Park
-- Newport Pkwy
-- Bergen Ave & Sip Ave
-- 11 St & Washington St 
+**1. Grove St PATH**
+**2. Hoboken Terminal - River St & Hudson Pl**
+**3. South Waterfront Walkway - Sinatra Dr & 1 St**
+**4. Hoboken Terminal - Hudson St & Hudson Pl**
+**5. City Hall - Washington St & 1 St**
+**6. Newport PATH**
+**7. Hamilton Park**
+**8. Newport Pkwy**
+**9. Bergen Ave & Sip Ave**
+**10. 11 St & Washington St** 
 
-* How does the average trip duration change by the type of user? 
-Casual - 16.47 mins
-Member - 8.55  mins
+* How does the average trip duration change by the type of user? <br>
+**Casual - 16.47 mins**
+**Member - 8.55  mins**
 
-* What is the average distance in miles for a bike trip?
-0.7226 Miles
+* What is the average distance in miles for a bike trip?<br>
+**0.7226 Miles**
 
 
 ## Visualizations:
